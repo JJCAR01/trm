@@ -6,6 +6,8 @@ public class Result {
 
     public Result() {}
 
+    // sahdgjs
+
     public Result(Double value) {
         this.value = value;
     }
